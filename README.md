@@ -1,4 +1,4 @@
-The file servo.py declares 2 classes of intrest.</br></br>
+The file servo.py declares 2 classes of interest.</br></br>
 <code> servo.AngularServo(pin, min_us=400, max_us=2200, ms_per_degree=3, max_angle=180, frequency=50) </code></br></br>
 <table>
 <tr><td><code>min_us</code></td><td> is the smallest pulse the servo will accept</td></tr>
