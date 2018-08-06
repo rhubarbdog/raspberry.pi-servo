@@ -8,7 +8,7 @@ The file servo.py declares 2 classes of intrest.</br></br>
 <tr><td><code>frequency</code></td><td> the frequency of data transfer</td></tr>
 </table> </br> </br>
 The data sheet for my servo has the following characteristics, the actual values i've derived through calibration experiments are in the third column.
-<table border="10">
+<table>
 <tr><td><big>Property</big></td><td><big>data sheet</big></td><td><big>derived value</big></td></tr>
 <tr><td><code>min_us<code></td><td>1000us</td><td>200us</td></tr>
 <tr><td><code>max_us<code></td><td>2000us</td><td>2200us</td></tr>
